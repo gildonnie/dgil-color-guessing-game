@@ -7,6 +7,7 @@ import github from "./github.png";
 import site from "./site.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import dg from './dg.png'
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -49,6 +50,7 @@ export {
   cafecord,
   bitwise,
   logo,
+  dg,
   backend,
   creator,
   mobile,
